@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-24T14:51:58.163Z",
+      "notes": "good for staying at night",
+      "position": {
+        "lat": "39.99682072780155",
+        "lng": "-0.03845214843750001"
+      },
+      "id": 98443198
     }
   ]
 }
