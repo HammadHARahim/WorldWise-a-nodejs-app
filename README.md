@@ -80,6 +80,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - Hammadbaba96@gmail.com(mailto:Hammadbaba96@gmail.com)
+Hammadbaba96@gmail.com(mailto:Hammadbaba96@gmail.com)
 
 Project Link: [https://github.com/yourusername/project-name](https://github.com/yourusername/project-name)
